@@ -84,7 +84,18 @@ bash train.sh
 
 ## Results
 
-DACT consistently outperforms baselines across three real-world datasets and two representative GRMs (TIGER, LC-Rec), demonstrating effective adaptation to collaborative evolution with reduced disruption to prior knowledge.
+DACT consistently outperforms baselines across three real-world datasets (Beauty, Tools, Toys) and two representative GRMs (TIGER, LC-Rec) over four continual learning periods, demonstrating effective adaptation to collaborative evolution with reduced disruption to prior knowledge.
+
+### TIGER Backbone
+
+> "Tok." = Tokenizer strategy; "×" = Frozen, "FT" = Fine-tuning, "RT" = Retraining.  
+> **Bold** = best, <u>underline</u> = second-best.
+
+![Table 2: Overall performance on TIGER](image/exp1.png)
+
+### LC-Rec Backbone
+
+![Table 3: Overall performance on LC-Rec](image/exp2.png)
 
 ---
 
