@@ -4,7 +4,7 @@
   <a href="https://arxiv.org/abs/2603.29705"><img src="https://img.shields.io/badge/arXiv-2603.29705-b31b1b.svg" alt="arXiv"></a>
   <a href="https://doi.org/10.1145/3805712.3809645"><img src="https://img.shields.io/badge/DOI-10.1145%2F3805712.3809645-green.svg" alt="DOI"></a>
   <a href="https://sigir2026.sigir.org"><img src="https://img.shields.io/badge/SIGIR-2026-blue.svg" alt="SIGIR 2026"></a>
-  <img src="https://img.shields.io/badge/PyTorch-Implementation-orange.svg" alt="PyTorch">
+
 </p>
 
 > **Drift-Aware Continual Tokenization for Generative Recommendation**  
